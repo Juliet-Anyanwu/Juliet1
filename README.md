@@ -21,7 +21,7 @@
 
   <!-- Header -->
   <header class="bg-white shadow p-6 text-center">
-    <img src="https://i.imgur.com/DhzLnj8.jpg" alt="Juliet Anyanwu Profile Photo" class="mx-auto mb-4 w-32 h-32 rounded-full border-4 border-blue-200 object-cover shadow-md">
+    <img src="https://i.imgur.com/gICI6nr.jpeg" alt="Juliet Anyanwu Profile Photo" class="mx-auto mb-4 w-32 h-32 rounded-full border-4 border-blue-200 object-cover shadow-md">
     <h1 class="text-4xl font-bold mb-2">Juliet Anyanwu</h1>
     <p class="text-lg">Certified Salesforce Administrator | CRM Analytics | Automation | Data Optimization</p>
   </header>
@@ -30,7 +30,7 @@
   <section class="p-10">
     <h2 class="text-2xl font-bold mb-4">About Me</h2>
     <p class="text-gray-700 max-w-4xl mx-auto">
-      I'm a Salesforce Administrator passionate about delivering efficient, scalable CRM solutions. My focus areas include automations, data management, integrations, and adoption strategies — all designed to increase operational efficiency and user satisfaction.
+      I'm a Salesforce Administrator passionate about delivering efficient, scalable CRM solutions. WIth over five years of experience, my focus areas include automations, data management, integrations, and adoption strategies — all designed to increase operational efficiency and user satisfaction.
     </p>
   </section>
 
